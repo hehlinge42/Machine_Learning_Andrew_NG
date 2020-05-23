@@ -39,4 +39,9 @@ This repository gathers my `Octave` assignments along the course
 
 ## Installation
 
-To download the repository, please type `gcl https://github.com/hehlinge42/Machine_Learning_Andrew_NG.git` in an UNIX terminal. To exectute the `.m` files in Octave, please download the Octave environment on the following link: https://sourceforge.net/projects/octave/files/Octave%20MacOSX%20Binary/2013-12-30%20binary%20installer%20of%20Octave%203.8.0%20for%20OSX%2010.9.1%20%28beta%29/GNU_Octave_3.8.0-6.dmg/download 
+To download the repository, please type `gcl https://github.com/hehlinge42/Machine_Learning_Andrew_NG.git` in an UNIX terminal. To exectute the `.m` files in Octave, please download the Octave environment: 
+* For MacOS: [MacOS Link](https://sourceforge.net/projects/octave/files/Octave%20MacOSX%20Binary/2013-12-30%20binary%20installer%20of%20Octave%203.8.0%20for%20OSX%2010.9.1%20%28beta%29/GNU_Octave_3.8.0-6.dmg/download) 
+* For Windows: [Windows Link](http://wiki.octave.org/Octave_for_Microsoft_Windows)
+* For GNU/Linux: [Linux Link](http://wiki.octave.org/Octave_for_GNU/Linux)
+
+An Octave Tutorial is provided in the `Week2/Lectures` folder.
